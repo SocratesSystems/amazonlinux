@@ -1,3 +1,3 @@
 FROM amazonlinux:2
 
-RUN yum install awscli -y
+RUN yum install -y awscli
